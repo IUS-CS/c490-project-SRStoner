@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126322539000",
+    "firebase_url": "https://tour-guide-cb490.firebaseio.com",
+    "project_id": "tour-guide-cb490",
+    "storage_bucket": "tour-guide-cb490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126322539000:android:d96770969344795be67e0d",
+        "android_client_info": {
+          "package_name": "com.samst.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126322539000-8o11su1dmfropvcm8p3o703675u9ve28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOM4mu42rmdFCZDR6QXXOAmeEc6-kVNIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126322539000-8o11su1dmfropvcm8p3o703675u9ve28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

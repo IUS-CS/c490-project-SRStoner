@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Paris Tour Guide</string>
+    <string name="attractions_label">Attractions</string>
+    <string name="restaurant_label">Restaurants</string>
+    <string name="map_label">Maps</string>
+    <string name="about_label">About</string>
+    <string name="logout">Logout</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="email_hint">Hints!</string>
+    <string name="password_hint">PW Hint</string>
+    <string name="sign_out_button">Sign out</string>
+    <string name="congrats_text">Congrats!</string>
+
+
+
+</resources>
